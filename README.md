@@ -1,7 +1,8 @@
 ### Hello Everyone 👋
 
 I am passionate DevOps Coach from Texas, USA
-![banner](https://github.com/akannan1087/akannan1087/assets/15877864/cbff287d-0e12-4b0b-8872-48723e06168f)
+
+![Screenshot 2024-04-01 at 10 41 19 PM](https://github.com/akannan1087/akannan1087/assets/15877864/9be671d9-37e1-498c-a150-df43ec677537)
 
 <!--
 **akannan1087/akannan1087** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
